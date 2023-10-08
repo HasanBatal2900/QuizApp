@@ -1,4 +1,2 @@
-# QuizApp
-QuizApp 
-#Code
+# Code
 you can explore at the master branch
